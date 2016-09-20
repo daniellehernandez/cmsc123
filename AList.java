@@ -1,4 +1,5 @@
 //Created by: Mary Danielle Amora and Danielle Hernandez
+// Sir JJ added a comment
 import java.util.*;
   
 public class AList {
